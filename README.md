@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NamrudhaVenkatathiri
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Masters in Business Analytics
+- 📫 Reach me @namrudhavenkat5@gmail.com
