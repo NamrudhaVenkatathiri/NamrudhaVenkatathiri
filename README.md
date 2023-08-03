@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NamrudhaVenkatathiri
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Masters in Business Analytics
-- 📫 Reach me @namrudhavenkat5@gmail.com
+- 👋 Hi, I’m @NamrudhaVenkatathiri-Graduate student in Management Information Systems
+- 👀 I’m interested in Data Analytics, I tell interesting data stories via Charts and Data Models.
+- 🌱 I’m a Tableau Desktop Specialist and AWS Cloud Practitioner
+- 📫 Reach me @namrudhavenkat.sv@gmail.com
